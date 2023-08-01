@@ -33,13 +33,13 @@ Insert gif or link to demo
   </tr>
   <tr>
     <td> 
-        <img src="./advicer/present/advicerGif.gif" alt="1" width = 279px height = 496px >
+        <img src="./advicer/present/advicerGif.gif" alt="1" width = 250px height = 496px >
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif"  alt="2" width = 279px height = 496px> 
+        <img src="./camera/present/cameraGif.gif"  alt="2" width = 250px height = 496px> 
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="3" width = 279px height = 496px>
+        <img src="./camera/present/cameraGif.gif" alt="3" width = 250px height = 496px>
     </td>
   </tr>
     <tr>
@@ -55,26 +55,24 @@ Insert gif or link to demo
   </tr>
   <tr>
     <td> 
-        <img src="./camera/present/cameraGif.gif" alt="1" width = 279px height = 496px >
-    </td>
-      
-    <td>
-        <img src="./camera/present/cameraGif.gif" alt="2" width = 279px height = 496px> 
+        <img src="./camera/present/cameraGif.gif" alt="1" width = 250px >
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="3" width = 279px height = 496px>
+        <img src="./camera/present/cameraGif.gif" alt="2" width = 250px> 
+    </td>
+    <td>
+        <img src="./camera/present/cameraGif.gif" alt="3" width = 250px>
     </td>
   </tr>
   <tr>
     <td> 
-        <img src="./camera/present/cameraGif.gif" alt="1" width = 279px height = 496px >
-    </td>
-      
-    <td>
-        <img src="./camera/present/cameraGif.gif" alt="2" width = 279px height = 496px> 
+        <img src="./camera/present/cameraGif.gif" alt="1" width = 250px height = 496px >
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="3" width = 279px height = 496px>
+        <img src="./camera/present/cameraGif.gif" alt="2" width = 250px height = 496px> 
+    </td>
+    <td>
+        <img src="./camera/present/cameraGif.gif" alt="3" width = 250px height = 496px>
     </td>
   </tr>
 </table>
