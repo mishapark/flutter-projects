@@ -1,6 +1,6 @@
 # Flutter Apps - Unpublished
 
-My first 10 Flutter applications I have created over period from Sep 2022 - June 2023
+My first 10 Flutter applications I have created over period from Sep 2022 - June 2023. You can find each project repository in my github
 
 <p align="center">
     <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" alt="1" width = 500px >
