@@ -35,7 +35,6 @@ Insert gif or link to demo
     <td> 
         <img src="./advicer/present/advicerGif.gif" alt="1" width = 279px height = 496px >
     </td>
-      
     <td>
         <img src="./camera/present/cameraGif.gif"  alt="2" width = 279px height = 496px> 
     </td>
