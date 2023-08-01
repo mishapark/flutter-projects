@@ -22,57 +22,68 @@ Insert gif or link to demo
 <table style="padding:10px">
   <tr>
     <td> 
-        <b>App 1</b>
+        <b>My Notes</b>
     </td>
     <td>
-        <b>App 1</b>
+        <b>Camera App</b>
     </td>
     <td>
-        <b>App 1</b>
+        <b>Flash Chat</b>
     </td>
   </tr>
   <tr>
     <td> 
-        <img src="./advicer/present/advicerGif.gif" alt="1" width = 250px height = 496px >
+        <img src="./mynotes/present/noteGif.gif" alt="1" width = 250px>
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif"  alt="2" width = 250px height = 496px> 
+        <img src="./camera/present/cameraGif.gif"  alt="2" width = 250px> 
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="3" width = 250px height = 496px>
+        <img src="./flash/present/flashGif.gif" alt="3" width = 250px>
     </td>
   </tr>
     <tr>
     <td> 
-        <b>App 1</b>
+        <b>Quizzer</b>
     </td>
     <td>
-        <b>App 1</b>
+        <b>Custom Browser</b>
     </td>
     <td>
-        <b>App 1</b>
+        <b>Map App</b>
     </td>
   </tr>
   <tr>
     <td> 
-        <img src="./camera/present/cameraGif.gif" alt="1" width = 250px >
+        <img src="./quiz/present/quizzerGif.gif" alt="1" width = 250px >
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="2" width = 250px> 
+        <img src="./webview/present/webappGif.gif" alt="2" width = 250px> 
     </td>
     <td>
         <img src="./camera/present/cameraGif.gif" alt="3" width = 250px>
     </td>
   </tr>
+   <tr>
+    <td> 
+        <b>State Management App</b>
+    </td>
+    <td>
+        <b>Custom Player</b>
+    </td>
+    <td>
+        <b>Advicer</b>
+    </td>
+  </tr>
   <tr>
     <td> 
-        <img src="./camera/present/cameraGif.gif" alt="1" width = 250px height = 496px >
+        <img src="./state_management/present/stateGif.gif" alt="1" width = 250px>
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="2" width = 250px height = 496px> 
+        <img src="./playback/present/playerGif.gif" alt="2" width = 250px> 
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="3" width = 250px height = 496px>
+        <img src="./advicer/present/advicerGif.gif" alt="3" width = 250px>
     </td>
   </tr>
 </table>
