@@ -1,15 +1,15 @@
-
 # Flutter Apps - Unpublished
 
 My first 10 Flutter applications I have created over period from Sep 2022 - June 2023
+![Logo](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)
 
+## Technologies Used
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
 
 ## Demo
-
-Insert gif or link to demo
-
-
-## Features
 
 <table style="padding:10px">
   <tr>
@@ -98,32 +98,12 @@ Insert gif or link to demo
   </tr>
 </table>
 
+## Lessons Learned
+
+- What did you learn while building this project? What challenges did you face and how did you overcome them?
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
+- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
