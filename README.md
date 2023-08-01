@@ -124,10 +124,14 @@ My first 10 Flutter applications I have created over period from Sep 2022 - June
 
 ## Lessons Learned
 
-- What did you learn while building this project? What challenges did you face and how did you overcome them?
+- Built a good knowledge of Flutter and cross-platform development
+- Got experience with the most used and popular packages used by Flutter developers
+- Tried out most of the state management solutions and got plenty of experience with BloC
+- Worked with an adaptive layout to make an app accessible on multiple platforms
+- Stored data with technologies like SQLite, Hive, Firebase and locally on the device
 
 ## Acknowledgements
 
-- [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+- [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+- [Dart & Flutter - Zero to Mastery](https://www.udemy.com/course/flutter-made-easy-zero-to-mastery/)
+- [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://www.youtube.com/watch?v=VPvVD8t02U8)
