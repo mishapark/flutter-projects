@@ -1,7 +1,7 @@
 # Flutter Apps - Unpublished
 
-My first 10 Flutter applications I have created over period from Sep 2022 - June 2023
-![Logo](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)
+My first 10 Flutter applications I have created over period from Sep 2022 - June 2023<br />
+![Logo](https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg)<br />
 
 ## Technologies Used
 
