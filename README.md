@@ -11,14 +11,6 @@ Insert gif or link to demo
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-<!-- Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://github.com/mishapark/flutter-projects/blob/master/advicer/present/advicerGif.gif?raw=true)  |  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> -->
-
 <table style="padding:10px">
   <tr>
     <td> 
@@ -33,13 +25,13 @@ Insert gif or link to demo
   </tr>
   <tr>
     <td> 
-        <img src="./mynotes/present/noteGif.gif" alt="1" width = 250px>
+        <img src="./mynotes/present/noteGif.gif" alt="1" width = 245px>
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif"  alt="2" width = 250px> 
+        <img src="./camera/present/cameraGif.gif"  alt="2" width = 245px> 
     </td>
     <td>
-        <img src="./flash/present/flashGif.gif" alt="3" width = 250px>
+        <img src="./flash/present/flashGif.gif" alt="3" width = 245px>
     </td>
   </tr>
     <tr>
@@ -55,13 +47,13 @@ Insert gif or link to demo
   </tr>
   <tr>
     <td> 
-        <img src="./quiz/present/quizzerGif.gif" alt="1" width = 250px >
+        <img src="./quiz/present/quizzerGif.gif" alt="1" width = 245px >
     </td>
     <td>
-        <img src="./webview/present/webappGif.gif" alt="2" width = 250px> 
+        <img src="./webview/present/webappGif.gif" alt="2" width = 245px> 
     </td>
     <td>
-        <img src="./camera/present/cameraGif.gif" alt="3" width = 250px>
+        <img src="./camera/present/cameraGif.gif" alt="3" width = 245px>
     </td>
   </tr>
    <tr>
@@ -77,16 +69,35 @@ Insert gif or link to demo
   </tr>
   <tr>
     <td> 
-        <img src="./state_management/present/stateGif.gif" alt="1" width = 250px>
+        <img src="./state_management/present/stateGif.gif" alt="1" width = 245px>
     </td>
     <td>
-        <img src="./playback/present/playerGif.gif" alt="2" width = 250px> 
+        <img src="./playback/present/playerGif.gif" alt="2" width = 245px> 
     </td>
     <td>
-        <img src="./advicer/present/advicerGif.gif" alt="3" width = 250px>
+        <img src="./advicer/present/advicerGif.gif" alt="3" width = 245px>
+    </td>
+  </tr>
+   <tr>
+    <td> 
+        <b>Adaptive App</b>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td> 
+        <img src="./adaptive/present/adaptiveGif.gif" alt="1" width = 245px>
+    </td>
+    <td>
+    </td>
+    <td>
     </td>
   </tr>
 </table>
+
 
 ## Acknowledgements
 
